@@ -1,3 +1,14 @@
 env
 .cpython
 
+.pytest_cache
+
+# PyCharm settings
+.idea/
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
