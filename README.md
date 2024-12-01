@@ -65,11 +65,7 @@ A patient in Kigali requests 3 units of Medicine X. There are 5 pharmacies with 
 
 The agent starts at (0, 0) and must decide the optimal sequence of actions (e.g., traveling to Pharmacy 3 first).
 
-### Alignment with Mission
-
-- **Real-Time Decision-Making**: Mirrors the challenge of identifying which pharmacy stocks the needed medication.
-- **Efficient Routing**: Models the logistics of delivering medication promptly to the patient.
-- **Minimizing Frustration**: Penalizes unnecessary travel or failed attempts to incentivize optimized behavior.
+### [Link to Video Demo and Zipped File](https://drive.google.com/drive/folders/16BH7mt8_bpDArLjQX7cr8L86ffuQ55vX?usp=sharing)
 
 ## Project Structure
 
