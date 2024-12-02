@@ -35,7 +35,7 @@ The agent can perform the following actions:
 ### Positive Rewards
 
 - Successfully delivering medication to the patient: **+100**
-- Checking a pharmacy with stock of requested medication: **+10**
+- Checking a pharmacy with a stock of requested medication: **+10**
 
 ### Negative Rewards
 
