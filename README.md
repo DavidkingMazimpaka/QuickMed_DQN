@@ -2,7 +2,7 @@
 
 ## QuickMed Description
 
-QuickMed Innovations is a digital healthcare platform designed to connect patients with nearby pharmacies that stock their prescribed medications in real time. Our mission is to eliminate the frustration and delays patients face when searching for specific medicines by providing an efficient, reliable, and centralized digital solution. This platform ensures faster access to essential medications, ultimately improving patient outcomes and enhancing the overall healthcare experience in Rwanda.
+QuickMed Innovations is a digital healthcare platform designed to connect patients with nearby pharmacies that stock their prescribed medications in real-time. Our mission is to eliminate patients' frustration and delays when searching for specific medicines by providing an efficient, reliable, and centralized digital solution. This platform ensures faster access to essential medications, ultimately improving patient outcomes and enhancing the overall healthcare experience in Rwanda.
 
 ## Environment Name: PharmacyAccessEnv
 
@@ -136,7 +136,7 @@ The training script will:
 - Create a 'models/' directory to save checkpoints
 - Create a 'logs/' directory for tensorboard logs
 - Train the agent for 50,000 timesteps (configurable in the script)
-- Save the final model as 'models/policy.zip'
+- Save the final model as 'models/quickmed_dqn_final.zip'
 - Save periodic checkpoints during training
 
 Training progress will be displayed in the console with metrics such as:
